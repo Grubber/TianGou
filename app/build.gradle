@@ -32,7 +32,7 @@ buildscript {
         classpath 'com.frogermcs.androiddevmetrics:androiddevmetrics-plugin:0.4'
     }
 
-    ext.support_version = '25.1.0'
+    ext.support_version = '25.1.1'
     ext.dagger_version = '2.0.2'
     ext.okhttp_version = '3.2.0'
     ext.retrofit_version = '2.0.0'
