@@ -1,0 +1,11 @@
+language: android
+
+notifications:
+  email: false
+
+android:
+  components:
+    - build-tools-25.0.2
+    - android-25
+    - extra-android-m2repository
+    - extra-android-support
