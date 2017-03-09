@@ -16,6 +16,8 @@ android:
     - android-25
     - extra-android-m2repository
     - extra-android-support
+
+    - android-22
     - sys-img-armeabi-v7a-android-22
 
 before_script:
