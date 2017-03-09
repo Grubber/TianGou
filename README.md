@@ -1,6 +1,8 @@
 TianGou
 =======
 
+[![Build Status](https://travis-ci.org/Grubber/TianGou.svg?branch=master)](https://travis-ci.org/Grubber/TianGou)
+
 演示 RxJava + Retrofit 2 + OkHttp 3 + Dagger 2 基本用法。
 
 其中演示数据由 天狗云平台(http://www.tngou.net/doc) 提供。
