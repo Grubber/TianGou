@@ -16,7 +16,7 @@ android:
     - android-25
     - extra-android-m2repository
     - extra-android-support
-    - sys-img-armeabi-v7a-android-23
+    - sys-img-armeabi-v7a-android-22
 
 before_script:
   - echo no | android create avd --force -n test -t android-22 --abi armeabi-v7a
